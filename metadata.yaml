@@ -1,0 +1,23 @@
+_repo: Cyprus-as-I-Saw-It-in-1879_3656
+creator:
+  author:
+    agent_name: Baker, Samuel White, Sir
+    birthdate: 1821
+    deathdate: 1893
+    gutenberg_agent_id: '796'
+    url: http://www.gutenberg.org/2009/agents/796
+    wikipedia: http://en.wikipedia.org/wiki/Samuel_Baker
+description: ''
+gutenberg_issued: '2003-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '3656'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DS'
+- !lcsh 'Cyprus -- Description and travel'
+title: Cyprus, as I Saw It in 1879
+url: http://www.gutenberg.org/ebooks/3656
